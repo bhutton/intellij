@@ -1,6 +1,8 @@
 # intellij
 intelliJ Settings Repository
 
+# Keyboard Shortcuts
+
 Tests
 -----
 Control + Option + L - eslint macro
