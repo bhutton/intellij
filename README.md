@@ -1,10 +1,10 @@
 # intellij
 intelliJ Settings Repository
 
-# Keyboard Shortcuts
 
-Tests
------
+## Keyboard Shortcuts
+
+### Tests
 Control + Option + L - eslint macro
 
 Control + R - Run tests
@@ -13,8 +13,7 @@ Command + Option + R - Run Debug
 
 Shift + Command + F8 (FN + F8) - Toggle Breakpoint
 
-Windows
--------
+### Windows
 Shift + Esc - Close bottom window
 
 Command + 1 - File Management Window Either focus or show/hide
@@ -26,8 +25,7 @@ Command + 5 - Debug Window
 
 Option + F12 (FN + F12) - Terminal Window
 
-Edit Windows
-------------
+### Edit Windows
 Control + Shift + Up/Down - Scroll Up/Down
 
 FN + Command = Left/Down - Top/Bottom of file (Macbook Pro)
