@@ -1,0 +1,1695 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="RVM: ruby-2.5.3" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.5.3p105 ( revision 65156) p105" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.5.3p105 ( revision 65156) p105" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/ruby-2.5.3/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.5.3</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="libtool -static" />
+          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc --version" />
+          <item key="CC_VERSION_MESSAGE" value="Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/c++/4.2.1&#10;Apple LLVM version 10.0.1 (clang-1001.0.46.4)&#10;Target: x86_64-apple-darwin18.7.0&#10;Thread model: posix&#10;InstalledDir: /Library/Developer/CommandLineTools/usr/bin" />
+          <item key="CFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/readline/include -I/usr/local/opt/libksba/include -I/usr/local/opt/openssl@1.1/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl@1.1/lib" />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl@1.1/lib" />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.5.3.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.5.3" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.5.3" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.5.3-static -framework Foundation" />
+          <item key="LIBRUBY_A" value="libruby.2.5.3-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.5.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.5.3.dylib" />
+          <item key="LIBRUBY_SONAME" value="libruby.2.5.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="5" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="105" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
+          <item key="PREP" value="miniruby exe/$(PROGRAM)" />
+          <item key="RANLIB" value=":" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="2.5" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.5.3" />
+          <item key="RUBY_SO_NAME" value="ruby.2.5.3" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.5.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="dylib" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="3" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="UNICODE_VERSION" value="10.0.0" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin18" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/x86_64-darwin18" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/x86_64-darwin18" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/bin" />
+          <item key="build" value="x86_64-apple-darwin18.7.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin18.7.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/ben/.rvm/rubies/ruby-2.5.3' '' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/readline:/usr/local/opt/libksba:/usr/local/opt/openssl@1.1' '--disable-install-doc' '--enable-shared' 'build_alias=' 'host_alias=' 'target_alias=' 'CC=gcc'" />
+          <item key="cxxflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="dsymutil" value="dsymutil" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3" />
+          <item key="host" value="x86_64-apple-darwin18.7.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin18.7.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.5.pc" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/x86_64-darwin18" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/x86_64-darwin18" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/x86_64-darwin18" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/com" />
+          <item key="sitearch" value="x86_64-darwin18" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0/x86_64-darwin18" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/site_ruby/x86_64-darwin18" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/x86_64-darwin18" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/x86_64-darwin18" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/etc" />
+          <item key="target" value="x86_64-apple-darwin18" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin18" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin18" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/vendor_ruby/x86_64-darwin18" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.5.3 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.5.3p105 ( revision 65156) p105" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.5.3p105 ( revision 65156) p105" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/ruby-2.5.3@global/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.5.3@global</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="libtool -static" />
+          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc --version" />
+          <item key="CC_VERSION_MESSAGE" value="Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/c++/4.2.1&#10;Apple LLVM version 10.0.1 (clang-1001.0.46.4)&#10;Target: x86_64-apple-darwin18.7.0&#10;Thread model: posix&#10;InstalledDir: /Library/Developer/CommandLineTools/usr/bin" />
+          <item key="CFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/readline/include -I/usr/local/opt/libksba/include -I/usr/local/opt/openssl@1.1/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl@1.1/lib" />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl@1.1/lib" />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.5.3.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.5.3" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.5.3" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.5.3-static -framework Foundation" />
+          <item key="LIBRUBY_A" value="libruby.2.5.3-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.5.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.5.3.dylib" />
+          <item key="LIBRUBY_SONAME" value="libruby.2.5.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="5" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="105" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
+          <item key="PREP" value="miniruby exe/$(PROGRAM)" />
+          <item key="RANLIB" value=":" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="2.5" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.5.3" />
+          <item key="RUBY_SO_NAME" value="ruby.2.5.3" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.5.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="dylib" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="3" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="UNICODE_VERSION" value="10.0.0" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin18" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/x86_64-darwin18" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/x86_64-darwin18" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/bin" />
+          <item key="build" value="x86_64-apple-darwin18.7.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin18.7.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/ben/.rvm/rubies/ruby-2.5.3' '' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/readline:/usr/local/opt/libksba:/usr/local/opt/openssl@1.1' '--disable-install-doc' '--enable-shared' 'build_alias=' 'host_alias=' 'target_alias=' 'CC=gcc'" />
+          <item key="cxxflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="dsymutil" value="dsymutil" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3" />
+          <item key="host" value="x86_64-apple-darwin18.7.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin18.7.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.5.pc" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/x86_64-darwin18" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/x86_64-darwin18" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/x86_64-darwin18" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/com" />
+          <item key="sitearch" value="x86_64-darwin18" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0/x86_64-darwin18" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/site_ruby/x86_64-darwin18" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/x86_64-darwin18" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/x86_64-darwin18" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/etc" />
+          <item key="target" value="x86_64-apple-darwin18" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin18" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/x86_64-darwin18" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin18" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/vendor_ruby/x86_64-darwin18" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/include/ruby-2.5.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/vendor_ruby/2.5.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: jruby-9.2.0.0 [global]" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.9.2.0.0 (2.5.0) 81156a8 Java HotSpot(TM) 64-Bit Server VM 25.171-b11 on 1.8.0_171-b11 +jit p0" />
+      <homePath value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/bin/jruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" type="simple" />
+            <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/jruby.jar!/jruby" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" type="simple" />
+            <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/jruby.jar!/jruby" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.9.2.0.0 (2.5.0) 81156a8 Java HotSpot(TM) 64-Bit Server VM 25.171-b11 on 1.8.0_171-b11 +jit p0" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/jruby-9.2.0.0@global/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>jruby-9.2.0.0@global</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="DLEXT" value="jar" />
+          <item key="LIBRUBY" value="jruby.jar" />
+          <item key="LIBRUBY_ALIASES" value="jruby.jar" />
+          <item key="LIBRUBY_SO" value="jruby.jar" />
+          <item key="MAJOR" value="2" />
+          <item key="MINOR" value="5" />
+          <item key="RUBYW_INSTALL_NAME" value="jruby" />
+          <item key="RUBY_INSTALL_NAME" value="jruby" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="TEENY" value="0" />
+          <item key="arch" value="universal-java1.8" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/bin" />
+          <item key="build" value="java1.8" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/share" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0" />
+          <item key="host" value="darwin-Oracle Corporation-x86_64" />
+          <item key="host_alias" value="darwin-Oracle Corporation-x86_64" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin" />
+          <item key="host_vendor" value="Oracle Corporation" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/include" />
+          <item key="joda-time.version" value="2.9.9" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/man" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/share/ri" />
+          <item key="ruby_install_name" value="jruby" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/include" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby" />
+          <item key="rubysharedlibdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/shared" />
+          <item key="rubyw_install_name" value="jruby" />
+          <item key="sitearch" value="java" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/2.5/site_ruby" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/2.5/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/2.5/site_ruby" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/etc" />
+          <item key="target" value="java1.8" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" />
+          <item key="tzdata.version" value="2013d" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.10" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.10p489 ( revision 63023) p489" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.10p489 ( revision 63023) p489" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/ruby-2.2.10/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.2.10</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="ar" />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BTESTRUBY" value="$(MINIRUBY)" />
+          <item key="BUILTIN_TRANSSRCS" value=" newline.c" />
+          <item key="CAPITARGET" value="nodoc" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc -v" />
+          <item key="CFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/readline/include -I/usr/local/opt/libksba/include -I/usr/local/opt/openssl/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib " />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="DTRACE" value="dtrace" />
+          <item key="DTRACE_EXT" value="d" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_BASERUBY" value="yes" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALLDOC" value="nodoc" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib " />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.2.0.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.2.0" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.2.0" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.2.0-static -framework CoreFoundation" />
+          <item key="LIBRUBY_A" value="libruby.2.2.0-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.2.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.2.0.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="2" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NROFF" value="/usr/bin/nroff" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="489" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="PREP" value="miniruby" />
+          <item key="RANLIB" value="ranlib" />
+          <item key="RDOCTARGET" value="nodoc" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.2.10" />
+          <item key="RUBY_SO_NAME" value="ruby.2.2.0" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.2.0" />
+          <item key="RUNRUBY_COMMAND" value="$(MINIRUBY) $(srcdir)/tool/runruby.rb --extout=.ext $(RUNRUBYOPT)" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="0" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin18" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/x86_64-darwin18" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/x86_64-darwin18" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/bin" />
+          <item key="build" value="x86_64-apple-darwin18.0.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin18.0.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/ben/.rvm/rubies/ruby-2.2.10' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/readline:/usr/local/opt/libksba:/usr/local/opt/openssl' '--disable-install-doc' '--enable-shared' 'CC=gcc'" />
+          <item key="cxxflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="host" value="x86_64-apple-darwin18.0.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin18.0.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3 -fno-fast-math" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.2.pc" />
+          <item key="ruby_version" value="2.2.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/x86_64-darwin18" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/x86_64-darwin18" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/x86_64-darwin18" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/com" />
+          <item key="sitearch" value="x86_64-darwin18" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/site_ruby/x86_64-darwin18" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/x86_64-darwin18" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/x86_64-darwin18" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/etc" />
+          <item key="target" value="x86_64-apple-darwin18" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin18" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/vendor_ruby/x86_64-darwin18" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: jruby-9.2.0.0" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.9.2.0.0 (2.5.0) 81156a8 Java HotSpot(TM) 64-Bit Server VM 25.171-b11 on 1.8.0_171-b11 +jit p0" />
+      <homePath value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/bin/jruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" type="simple" />
+            <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/jruby.jar!/jruby" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" type="simple" />
+            <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/jruby.jar!/jruby" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.9.2.0.0 (2.5.0) 81156a8 Java HotSpot(TM) 64-Bit Server VM 25.171-b11 on 1.8.0_171-b11 +jit p0" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/jruby-9.2.0.0/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>jruby-9.2.0.0</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="DLEXT" value="jar" />
+          <item key="LIBRUBY" value="jruby.jar" />
+          <item key="LIBRUBY_ALIASES" value="jruby.jar" />
+          <item key="LIBRUBY_SO" value="jruby.jar" />
+          <item key="MAJOR" value="2" />
+          <item key="MINOR" value="5" />
+          <item key="RUBYW_INSTALL_NAME" value="jruby" />
+          <item key="RUBY_INSTALL_NAME" value="jruby" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="TEENY" value="0" />
+          <item key="arch" value="universal-java1.8" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/bin" />
+          <item key="build" value="java1.8" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/share" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0" />
+          <item key="host" value="darwin-Oracle Corporation-x86_64" />
+          <item key="host_alias" value="darwin-Oracle Corporation-x86_64" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin" />
+          <item key="host_vendor" value="Oracle Corporation" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/include" />
+          <item key="joda-time.version" value="2.9.9" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/man" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/share/ri" />
+          <item key="ruby_install_name" value="jruby" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/include" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby" />
+          <item key="rubysharedlibdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/shared" />
+          <item key="rubyw_install_name" value="jruby" />
+          <item key="sitearch" value="java" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/2.5/site_ruby" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/2.5/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/2.5/site_ruby" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/etc" />
+          <item key="target" value="java1.8" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/jruby-9.2.0.0/lib/ruby/stdlib" />
+          <item key="tzdata.version" value="2013d" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.7" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.7p456 ( revision 63024) p456" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.7p456 ( revision 63024) p456" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/ruby-2.3.7/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.3.7</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="libtool -static" />
+          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc -v" />
+          <item key="CFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/libksba/include -I/usr/local/opt/readline/include -I/usr/local/opt/zlib/include -I/usr/local/opt/openssl/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl/lib" />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl/lib" />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.3.0.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.3.0" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.3.0" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.3.0-static -framework Foundation" />
+          <item key="LIBRUBY_A" value="libruby.2.3.0-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.3.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.3.0.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="3" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NROFF" value="/usr/bin/nroff" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="456" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
+          <item key="PREP" value="miniruby ruby-runner" />
+          <item key="RANLIB" value=":" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.3.7" />
+          <item key="RUBY_SO_NAME" value="ruby.2.3.0" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.3.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="0" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin18" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/x86_64-darwin18" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/x86_64-darwin18" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/bin" />
+          <item key="build" value="x86_64-apple-darwin18.7.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin18.7.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/ben/.rvm/rubies/ruby-2.3.7' '' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/libksba:/usr/local/opt/readline:/usr/local/opt/zlib:/usr/local/opt/openssl' '--disable-install-doc' '--enable-shared' 'build_alias=' 'host_alias=' 'target_alias=' 'CC=gcc'" />
+          <item key="cxxflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7" />
+          <item key="host" value="x86_64-apple-darwin18.7.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin18.7.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3 -fno-fast-math" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.3.pc" />
+          <item key="ruby_version" value="2.3.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/x86_64-darwin18" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/x86_64-darwin18" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/x86_64-darwin18" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/com" />
+          <item key="sitearch" value="x86_64-darwin18" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0/x86_64-darwin18" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/site_ruby/x86_64-darwin18" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/x86_64-darwin18" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/x86_64-darwin18" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/etc" />
+          <item key="target" value="x86_64-apple-darwin18" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin18" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin18" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/vendor_ruby/x86_64-darwin18" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.10 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.10p489 ( revision 63023) p489" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.10p489 ( revision 63023) p489" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/ruby-2.2.10@global/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.2.10@global</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="ar" />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BTESTRUBY" value="$(MINIRUBY)" />
+          <item key="BUILTIN_TRANSSRCS" value=" newline.c" />
+          <item key="CAPITARGET" value="nodoc" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc -v" />
+          <item key="CFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/readline/include -I/usr/local/opt/libksba/include -I/usr/local/opt/openssl/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib " />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="DTRACE" value="dtrace" />
+          <item key="DTRACE_EXT" value="d" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_BASERUBY" value="yes" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALLDOC" value="nodoc" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib " />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.2.0.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.2.0" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.2.0" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.2.0-static -framework CoreFoundation" />
+          <item key="LIBRUBY_A" value="libruby.2.2.0-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.2.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.2.0.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="2" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NROFF" value="/usr/bin/nroff" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="489" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="PREP" value="miniruby" />
+          <item key="RANLIB" value="ranlib" />
+          <item key="RDOCTARGET" value="nodoc" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.2.10" />
+          <item key="RUBY_SO_NAME" value="ruby.2.2.0" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.2.0" />
+          <item key="RUNRUBY_COMMAND" value="$(MINIRUBY) $(srcdir)/tool/runruby.rb --extout=.ext $(RUNRUBYOPT)" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="0" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin18" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/x86_64-darwin18" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/x86_64-darwin18" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/bin" />
+          <item key="build" value="x86_64-apple-darwin18.0.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin18.0.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/ben/.rvm/rubies/ruby-2.2.10' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/readline:/usr/local/opt/libksba:/usr/local/opt/openssl' '--disable-install-doc' '--enable-shared' 'CC=gcc'" />
+          <item key="cxxflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="host" value="x86_64-apple-darwin18.0.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin18.0.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3 -fno-fast-math" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.2.pc" />
+          <item key="ruby_version" value="2.2.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/x86_64-darwin18" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/x86_64-darwin18" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/x86_64-darwin18" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/com" />
+          <item key="sitearch" value="x86_64-darwin18" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/site_ruby/x86_64-darwin18" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/x86_64-darwin18" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/x86_64-darwin18" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/etc" />
+          <item key="target" value="x86_64-apple-darwin18" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin18" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/vendor_ruby/x86_64-darwin18" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.7 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.7p456 ( revision 63024) p456" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.7p456 ( revision 63024) p456" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.7/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.3.7@global</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="libtool -static" />
+          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc -v" />
+          <item key="CFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/libksba/include -I/usr/local/opt/readline/include -I/usr/local/opt/zlib/include -I/usr/local/opt/openssl/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl/lib" />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl/lib" />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.3.0.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.3.0" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.3.0" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.3.0-static -framework Foundation" />
+          <item key="LIBRUBY_A" value="libruby.2.3.0-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.3.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.3.0.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="3" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NROFF" value="/usr/bin/nroff" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="456" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
+          <item key="PREP" value="miniruby ruby-runner" />
+          <item key="RANLIB" value=":" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.3.7" />
+          <item key="RUBY_SO_NAME" value="ruby.2.3.0" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.3.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="0" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin18" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/x86_64-darwin18" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/x86_64-darwin18" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/bin" />
+          <item key="build" value="x86_64-apple-darwin18.7.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin18.7.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/ben/.rvm/rubies/ruby-2.3.7' '' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/libksba:/usr/local/opt/readline:/usr/local/opt/zlib:/usr/local/opt/openssl' '--disable-install-doc' '--enable-shared' 'build_alias=' 'host_alias=' 'target_alias=' 'CC=gcc'" />
+          <item key="cxxflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7" />
+          <item key="host" value="x86_64-apple-darwin18.7.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin18.7.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3 -fno-fast-math" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.3.pc" />
+          <item key="ruby_version" value="2.3.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/x86_64-darwin18" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/x86_64-darwin18" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/x86_64-darwin18" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/com" />
+          <item key="sitearch" value="x86_64-darwin18" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0/x86_64-darwin18" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/site_ruby/x86_64-darwin18" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/x86_64-darwin18" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/x86_64-darwin18" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/site_ruby/2.3.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/etc" />
+          <item key="target" value="x86_64-apple-darwin18" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin18" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/x86_64-darwin18" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin18" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/vendor_ruby/x86_64-darwin18" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/include/ruby-2.3.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.3.7/lib/ruby/vendor_ruby/2.3.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.10 [rails-caldav-sample]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.10p489 ( revision 63023) p489" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.10p489 ( revision 63023) p489" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/ruby-2.2.10@rails-caldav-sample/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.2.10@rails-caldav-sample</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="ar" />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BTESTRUBY" value="$(MINIRUBY)" />
+          <item key="BUILTIN_TRANSSRCS" value=" newline.c" />
+          <item key="CAPITARGET" value="nodoc" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc -v" />
+          <item key="CFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/readline/include -I/usr/local/opt/libksba/include -I/usr/local/opt/openssl/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib " />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="DTRACE" value="dtrace" />
+          <item key="DTRACE_EXT" value="d" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_BASERUBY" value="yes" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALLDOC" value="nodoc" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib " />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.2.0.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.2.0" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.2.0" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.2.0-static -framework CoreFoundation" />
+          <item key="LIBRUBY_A" value="libruby.2.2.0-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.2.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.2.0.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="2" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NROFF" value="/usr/bin/nroff" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="489" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@" />
+          <item key="PREP" value="miniruby" />
+          <item key="RANLIB" value="ranlib" />
+          <item key="RDOCTARGET" value="nodoc" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.2.10" />
+          <item key="RUBY_SO_NAME" value="ruby.2.2.0" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.2.0" />
+          <item key="RUNRUBY_COMMAND" value="$(MINIRUBY) $(srcdir)/tool/runruby.rb --extout=.ext $(RUNRUBYOPT)" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="0" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin18" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/x86_64-darwin18" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/x86_64-darwin18" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/bin" />
+          <item key="build" value="x86_64-apple-darwin18.0.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin18.0.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/ben/.rvm/rubies/ruby-2.2.10' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/readline:/usr/local/opt/libksba:/usr/local/opt/openssl' '--disable-install-doc' '--enable-shared' 'CC=gcc'" />
+          <item key="cxxflags" value=" -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="host" value="x86_64-apple-darwin18.0.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin18.0.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3 -fno-fast-math" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.2.pc" />
+          <item key="ruby_version" value="2.2.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/x86_64-darwin18" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/x86_64-darwin18" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/x86_64-darwin18" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/com" />
+          <item key="sitearch" value="x86_64-darwin18" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0/x86_64-darwin18" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/site_ruby/x86_64-darwin18" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/x86_64-darwin18" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/x86_64-darwin18" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/site_ruby/2.2.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/etc" />
+          <item key="target" value="x86_64-apple-darwin18" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin18" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/2.2.0/x86_64-darwin18" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin18" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/vendor_ruby/x86_64-darwin18" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/include/ruby-2.2.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.2.10/lib/ruby/vendor_ruby/2.2.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+  </component>
+</application>
