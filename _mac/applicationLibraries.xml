@@ -2135,6 +2135,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rspec-mocks-3.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.8.2, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rspec-rails-3.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rspec-rails-3.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.9.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
