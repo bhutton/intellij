@@ -4,6 +4,7 @@ intelliJ Settings Repository
 Tests
 -----
 Control + Option + L - eslint macro
+
 Control + R - Run tests
 Command + Option + R - Run Debug
 Shit + Command + F8 (FN + F8) - Toggle Breakpoint
