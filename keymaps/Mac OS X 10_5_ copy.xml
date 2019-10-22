@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
@@ -10,8 +14,17 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Macro.ESLint">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
-  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
 </keymap>
