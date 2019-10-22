@@ -1,6 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -13,4 +13,5 @@
   <action id="Macro.ESLint">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="ResizeToolWindowLeft" />
 </keymap>
