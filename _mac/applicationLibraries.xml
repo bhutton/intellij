@@ -395,6 +395,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="debase (v0.3.0.beta8, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/debase-0.3.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/debase-0.3.0.beta8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/debase-0.3.0.beta8/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/debase-0.3.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/debase-0.3.0.beta8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/debase-0.3.0.beta8/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/debase-0.3.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/debase-0.3.0.beta8/test" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.2.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1383,6 +1403,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rubocop-0.73.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rubocop-0.73.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rubocop-0.73.0/config" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.8.0.beta8, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.8.0.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.8.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.8.0.beta8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.8.0.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.8.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.8.0.beta8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.8.0.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.8.0.beta8/ext" />
       </excluded>
     </library>
     <library name="ruby-progressbar (v1.10.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
