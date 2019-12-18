@@ -21,6 +21,9 @@
   <action id="Macro.ESLint">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="Macro.Replace All">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="MarkNotificationsAsRead">
     <keyboard-shortcut first-keystroke="shift meta escape" />
   </action>
