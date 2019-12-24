@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="bhutton" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.enlight" />
+          <option name="userName" value="ben" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
