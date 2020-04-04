@@ -10,6 +10,10 @@
           <option name="url" value="http://gogs.enlight" />
           <option name="userName" value="ben" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.altairhosting.com" />
+          <option name="userName" value="ben" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
