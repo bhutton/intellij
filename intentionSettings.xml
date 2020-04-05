@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="FreeMarker/Create dynamic method or property" />
+  </component>
+</application>

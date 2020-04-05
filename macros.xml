@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="ESLint">
+      <action id="Javascript.Linters.EsLint.Fix" />
+    </macro>
+    <macro name="Replace All">
+      <action id="Replace" />
+    </macro>
+  </component>
+</application>
