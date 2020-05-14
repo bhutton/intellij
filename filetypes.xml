@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="highscores" type="PLAIN_TEXT" />
+      <mapping ext="private" type="PLAIN_TEXT" />
       <mapping ext="assignment" type="PLAIN_TEXT" />
       <mapping ext="vpsinstance@4f970032" type="PLAIN_TEXT" />
       <mapping ext="public" type="PLAIN_TEXT" />
