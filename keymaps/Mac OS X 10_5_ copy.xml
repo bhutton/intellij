@@ -28,6 +28,14 @@
     <keyboard-shortcut first-keystroke="meta page_up" />
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
