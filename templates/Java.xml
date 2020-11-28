@@ -1,5 +1,6 @@
 <templateSet group="Java">
-  <template name="tst" value="@Test&#10;public void createStaticPage() {&#10;    $END$&#10;}&#10;" description="Unit Test" toReformat="false" toShortenFQNames="true">
+  <template name="tst" value="@Test&#10;public void $BEGIN$() {&#10;    $END$&#10;}&#10;" description="Unit Test" toReformat="false" toShortenFQNames="true">
+    <variable name="BEGIN" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
