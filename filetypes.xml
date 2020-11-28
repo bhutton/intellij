@@ -13,6 +13,7 @@
       <mapping ext="vpsinstance@4f970032" type="PLAIN_TEXT" />
       <mapping ext="public" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="markup" type="PLAIN_TEXT" />
       <mapping ext="assignment" type="PLAIN_TEXT" />
       <mapping pattern="myFunction" type="TypeScript" />
     </extensionMap>
