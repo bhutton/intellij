@@ -16,6 +16,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="bundle (v0.0.1, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="bundler (v2.1.4, RVM: ruby-2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -132,6 +140,32 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0/did_you_mean/formatters" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0/did_you_mean/experimental" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0/did_you_mean/spell_checkers" />
+      </excluded>
+    </library>
+    <library name="diff-lcs (v1.4.4, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/autotest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/diff-lcs-1.4.4/autotest" />
       </excluded>
     </library>
     <library name="executable-hooks (v1.6.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
@@ -522,6 +556,71 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0/rexml/formatters" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0/rexml/validation" />
       </excluded>
+    </library>
+    <library name="rspec (v3.10.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-3.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-3.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.10.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-core-3.10.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-core-3.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-core-3.10.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-core-3.10.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-core-3.10.0/exe" />
+      </excluded>
+    </library>
+    <library name="rspec-expectations (v3.10.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-expectations-3.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-expectations-3.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.10.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-mocks-3.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-mocks-3.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.10.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-support-3.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-support-3.10.0/lib" />
+      </SOURCES>
     </library>
     <library name="rss (v0.2.8, RVM: ruby-2.7.2) [gem]" type="rubylib">
       <properties>
