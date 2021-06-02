@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="uuid1" type="PLAIN_TEXT" />
       <mapping pattern="example_a" type="PLAIN_TEXT" />
       <mapping pattern="highscores" type="PLAIN_TEXT" />
@@ -25,6 +23,8 @@
       <mapping pattern="myFunction" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
