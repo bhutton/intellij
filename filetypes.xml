@@ -15,10 +15,10 @@
       <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="module-info" type="PLAIN_TEXT" />
+      <mapping ext="public" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="private" type="PLAIN_TEXT" />
       <mapping ext="vpsinstance@4f970032" type="PLAIN_TEXT" />
-      <mapping ext="public" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="markup" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
