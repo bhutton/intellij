@@ -157,6 +157,11 @@
                       <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="HaskellStackConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Haskell Stack" pluginName="IntelliJ-Haskell" pluginId="intellij.haskell" />
+                    </value>
+                  </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
