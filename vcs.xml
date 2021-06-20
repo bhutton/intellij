@@ -10,16 +10,24 @@
           <option name="url" value="http://gogs.enlight" />
           <option name="userName" value="ben" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.altairhosting.com" />
+          <option name="userName" value="ben" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="ben-hutton" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
       </list>
     </option>
   </component>
