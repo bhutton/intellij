@@ -5,20 +5,21 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="uuid1" type="PLAIN_TEXT" />
-      <mapping pattern="example_a" type="PLAIN_TEXT" />
       <mapping pattern="highscores" type="PLAIN_TEXT" />
-      <mapping pattern="example_b" type="PLAIN_TEXT" />
-      <mapping pattern="example_c" type="PLAIN_TEXT" />
       <mapping pattern="uuid2" type="PLAIN_TEXT" />
       <mapping pattern="test_file2" type="PLAIN_TEXT" />
-      <mapping pattern="example_d" type="PLAIN_TEXT" />
-      <mapping pattern="test_file" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="module-info" type="PLAIN_TEXT" />
-      <mapping ext="public" type="PLAIN_TEXT" />
+      <mapping pattern="example_a" type="PLAIN_TEXT" />
+      <mapping pattern="example_b" type="PLAIN_TEXT" />
+      <mapping pattern="example_c" type="PLAIN_TEXT" />
+      <mapping pattern="example_d" type="PLAIN_TEXT" />
+      <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="private" type="PLAIN_TEXT" />
       <mapping ext="vpsinstance@4f970032" type="PLAIN_TEXT" />
+      <mapping ext="public" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="markup" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
