@@ -1,0 +1,7 @@
+<templateSet group="JavaScript Testing">
+  <template name="it" value="it(&quot;should $NAME$&quot;, $ASYNC$ () =&gt; {&#10;    $END$&#10;}); " description="Inserts it() block" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ASYNC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
