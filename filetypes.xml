@@ -3,35 +3,20 @@
     <extensionMap>
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
-      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
       <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping pattern="highscores" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern="test_file2" type="PLAIN_TEXT" />
       <mapping pattern="example_c" type="PLAIN_TEXT" />
       <mapping pattern="example_d" type="PLAIN_TEXT" />
       <mapping pattern="example_a" type="PLAIN_TEXT" />
       <mapping pattern="example_b" type="PLAIN_TEXT" />
       <mapping pattern="module-info" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="uuid2" type="PLAIN_TEXT" />
       <mapping pattern="uuid1" type="PLAIN_TEXT" />
-      <mapping pattern=".node-version" type="PLAIN_TEXT" />
-      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="public" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
@@ -41,12 +26,12 @@
       <mapping ext="markup" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="assignment" type="PLAIN_TEXT" />
+      <mapping pattern="myFunction" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
-      <mapping pattern="myFunction" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
