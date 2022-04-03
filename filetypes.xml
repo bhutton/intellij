@@ -25,6 +25,10 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="assignment" type="PLAIN_TEXT" />
       <mapping pattern="myFunction" type="TypeScript" />
+      <mapping pattern="*playbook.yml" type="YAML" />
+      <mapping pattern="*playbook.yaml" type="YAML" />
+      <mapping pattern="main.yml" type="YAML" />
+      <mapping pattern="main.yaml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
