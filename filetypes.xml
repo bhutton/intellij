@@ -19,6 +19,7 @@
       <mapping pattern="uuid1" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="json-p01p02_p04" type="PLAIN_TEXT" />
+      <mapping ext="json-p03" type="PLAIN_TEXT" />
       <mapping ext="private" type="PLAIN_TEXT" />
       <mapping ext="vpsinstance@4f970032" type="PLAIN_TEXT" />
       <mapping ext="public" type="PLAIN_TEXT" />
