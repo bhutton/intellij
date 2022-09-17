@@ -7,6 +7,9 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <mapping pattern="module-info" type="PLAIN_TEXT" />
+      <mapping pattern="uuid2" type="PLAIN_TEXT" />
+      <mapping pattern="uuid1" type="PLAIN_TEXT" />
       <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping pattern="highscores" type="PLAIN_TEXT" />
       <mapping pattern="test_file2" type="PLAIN_TEXT" />
@@ -14,9 +17,6 @@
       <mapping pattern="example_d" type="PLAIN_TEXT" />
       <mapping pattern="example_a" type="PLAIN_TEXT" />
       <mapping pattern="example_b" type="PLAIN_TEXT" />
-      <mapping pattern="module-info" type="PLAIN_TEXT" />
-      <mapping pattern="uuid2" type="PLAIN_TEXT" />
-      <mapping pattern="uuid1" type="PLAIN_TEXT" />
       <mapping ext="json-p01p02_p04" type="PLAIN_TEXT" />
       <mapping ext="public" type="PLAIN_TEXT" />
       <mapping ext="json-p02_p04" type="PLAIN_TEXT" />
@@ -30,13 +30,13 @@
       <mapping ext="vpsinstance@4f970032" type="PLAIN_TEXT" />
       <mapping ext="json-p06" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="markup" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="assignment" type="PLAIN_TEXT" />
       <mapping ext="json-p08" type="PLAIN_TEXT" />
       <mapping pattern="myFunction" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="env" approved="true" type=".env file" />
+      <removed_mapping ext="markup" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
