@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="ESLint">
+      <action id="Javascript.Linters.EsLint.Fix" />
+    </macro>
+    <macro name="Replace All">
+      <action id="Replace" />
+    </macro>
+    <macro name="SaveAll">
+      <action id="SearchEverywhere" />
+      <typing text-keycode="65:1;67:0;84:0;73:0;79:0;78:0;83:0;32:0;79:0;78:0;32:0;83:0;65:0;86:0;69:0">Actions&amp;#x20;on&amp;#x20;save</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+    </macro>
+  </component>
+</application>
