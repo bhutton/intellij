@@ -3,5 +3,6 @@
     <option name="VERSION" value="1" />
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_SIZE_2D" value="13.5" />
+    <option name="FONT_FAMILY" value="Fira Code" />
   </component>
 </application>
