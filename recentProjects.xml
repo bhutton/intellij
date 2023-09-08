@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/repos/airscope/visualise/visualise">
+          <value>
+            <RecentProjectMetaInfo frameTitle="visualise – SelectBoxHelpers.tsx" opened="true" projectWorkspaceId="2UmISkFrhdZheZh8pKPFIdpsMde">
+              <option name="activationTimestamp" value="1694178885901" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9559.62" />
+              <option name="buildTimestamp" value="1692766888408" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="48" y="54" width="1400" height="844" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1694177717218" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/go/src/monocular">
+          <value>
+            <RecentProjectMetaInfo frameTitle="monocular – useAreaSelect.ts" opened="true" projectWorkspaceId="20z2va5SAMJoySrZmgL7tsZLfhy">
+              <option name="activationTimestamp" value="1694178138969" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9559.62" />
+              <option name="buildTimestamp" value="1692766888408" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="48" y="54" width="1400" height="845" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1694178132245" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/repos/airscope/visualise/visualise" />
+  </component>
+</application>
