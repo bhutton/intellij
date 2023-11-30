@@ -4,6 +4,7 @@
       <list>
         <option value="Pythonid" />
         <option value="com.haulmont.jpab" />
+        <option value="org.jetbrains.plugins.go" />
       </list>
     </option>
   </component>
