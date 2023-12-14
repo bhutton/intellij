@@ -6,6 +6,8 @@
   </template>
   <template name="descr" value="describe(&quot;$NAME$&quot;, () =&gt; {&#10;  $END$&#10;});&#10;" description="Inserts describe() block" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
   </template>
 </templateSet>
