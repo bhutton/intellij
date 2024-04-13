@@ -1,0 +1,25 @@
+<application>
+  <component name="aws">
+    <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/sam" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1709747298000" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+  <component name="resources">
+    <option name="selected">
+      <list>
+        <option value="AWS::Lambda::Function" />
+      </list>
+    </option>
+  </component>
+</application>

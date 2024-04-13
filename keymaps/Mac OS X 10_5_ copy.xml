@@ -51,6 +51,10 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="shift escape" second-keystroke="shift escape" />
+  </action>
   <action id="Macro.ESLint">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
