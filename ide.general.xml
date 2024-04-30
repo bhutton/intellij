@@ -14,7 +14,6 @@
       <map>
         <entry key="Position" value="false" />
         <entry key="aws.codewhisperer" value="false" />
-        <entry key="git" value="true" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
