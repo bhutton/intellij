@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="21" />
       <type value="JavaSDK" />
-      <version value="java version &quot;21.0.1&quot;" />
+      <version value="Oracle OpenJDK 21.0.1 - aarch64" />
       <homePath value="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home" />
       <roots>
         <annotationsPath>
