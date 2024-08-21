@@ -712,5 +712,29 @@
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.9" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.6" />
+      <homePath value="/usr/bin/python3" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="0deca6b8-3e7c-4af9-9099-a07495bbdaed">
+        <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>
