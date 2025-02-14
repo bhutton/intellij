@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="10">
+    <option name="paging-display-mode" value="GRID_LEFT_FLOATING" />
     <option name="warn-unsafe-query" value="false" />
     <text-mode>
       <parameter-patterns>
