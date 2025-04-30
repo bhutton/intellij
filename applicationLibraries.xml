@@ -1,5 +1,24 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.12 (iac) interpreter library">
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12" />
+        <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/repos/airscope/iac/.venv/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.1/python_stubs/797908847" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12" />
+        <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/repos/airscope/iac/.venv/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.1/python_stubs/797908847" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </SOURCES>
+    </library>
     <library name="Python 3.12 (visualise) interpreter library">
       <CLASSES>
         <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12" />

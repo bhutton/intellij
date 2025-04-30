@@ -900,5 +900,36 @@
         </sourcePath>
       </roots>
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.12 (iac)" />
+      <type value="Python SDK" />
+      <version value="Python 3.12.9" />
+      <homePath value="$USER_HOME$/repos/airscope/iac/.venv/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/repos/airscope/iac/.venv/lib/python3.12/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.1/python_stubs/797908847" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/airscope/iac" SDK_UUID="a0f2a373-8544-4104-8190-5d050e6370be">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>
